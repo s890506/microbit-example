@@ -1,6 +1,6 @@
 # Micro:bit 範例檔
 
-本專案為 Micro:bit 範例檔供非營利使用，若想直接查看程式碼可點開 '*.js' 檔，亦可以將 '.hex' 檔案放入您的 Micro:bit 板子中或匯入 JavaScript 模塊編輯器 (Pxt) 中使用。
+本專案為 Micro:bit 範例檔供非營利使用，若想直接查看程式碼可點開 `*.js` 檔，亦可以將 `.hex` 檔案放入您的 Micro:bit 板子中或匯入 JavaScript 模塊編輯器 (Pxt) 中使用。
 
 ## 專案
 
